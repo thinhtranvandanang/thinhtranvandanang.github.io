@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background: #f4f4f4;
+  color: #333;
+}
+
+header {
+  background: #2c3e50;
+  color: white;
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+header img {
+  width: 50px;
+  border-radius: 5%;
+}
+
+header .contact a {
+  margin: 0 10px;
+  color: white;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+nav {
+  background: #34495e;
+  text-align: center;
+  padding: 0.5rem;
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+}
+
+main {
+  padding: 2rem;
+  background: white;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+footer {
+  text-align: center;
+  background: #2c3e50;
+  color: white;
+  padding: 1rem;
+}
